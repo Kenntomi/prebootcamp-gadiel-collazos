@@ -1,6 +1,7 @@
 # Gadiel Ubaldo Collazos Cruz - Nivel intermedio
 
 Presentacion:
+
 Hola, soy Gadiel Collazos y tengo un nivel intermedio en desarrollo de software. Manejo tecnologias como HTML, CSS, Java para construir sitios web. Me apasiona seguir aprendiendo y mejorar constantemente en el desarrollo, siempre buscando soluciones eficientes y bien estructuradas para los proyectos en los que trbajao.
 
 
