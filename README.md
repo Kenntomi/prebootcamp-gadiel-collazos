@@ -5,6 +5,7 @@ Hola, soy Gadiel Collazos y tengo un nivel intermedio en desarrollo de software.
 
 
 Preguntas del nivel intermedio:
+
 ¿Qué rol tiene el Product Owner?
 El Product Owner se encarga de definir lo que el producto necesita y prioriza las tareas para asegurarse de que el equipo trabaje en lo más importante.
 
